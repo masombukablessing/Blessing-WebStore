@@ -1,0 +1,11 @@
+/* Register Page styles */
+
+.register-page {
+    padding: 2rem;
+  }
+  
+  .register-page form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
